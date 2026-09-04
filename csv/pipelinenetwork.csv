@@ -1,0 +1,6 @@
+pipeline_id,pipeline_name,from_location,to_location,diameter_inch,length_km,capacity_mmcfd,status,org_id
+1,"Kailashtila-Kuchai Gas Pipeline","Kailashtila Gas Field",Kuchai,8.00,13.000,62.00,Operating,7
+2,"Kuchai-Chhatak Gas Pipeline",Kuchai,Chhatak,6.00,39.000,36.00,Operating,7
+3,"Devpur-Kumargaon Gas Pipeline",Devpur,Kumargaon,6.00,11.000,36.00,Operating,7
+4,"Shahaji Bazar-Shamsher Nagar Gas Pipeline",Shahjibazar,"Shamsher Nagar (Sreemangal)",6.00,65.000,11.00,Operating,7
+5,"Kuchai DRS to Gobindogonj VS Pipeline",Kuchai,Gobindogonj,6.00,34.000,34.00,Operating,7
