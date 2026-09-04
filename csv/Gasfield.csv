@@ -1,0 +1,25 @@
+field_id,field_name,location,discovery_year,production_start_year,total_reserve_bcf,total_wells_drilled,producing_wells,current_production_mmcfd,status,org_id
+1,Titas,"Brahmanbaria Sadar, Brahmanbaria",1962,1968,7881.00,31,23,325.00,Active,1
+2,Habiganj,"Habiganj District",1963,1968,2785.00,10,7,95.00,Active,1
+3,Bakhrabad,"Muradnagar, Comilla",1969,1984,1387.00,10,6,34.00,"Partially Active",1
+4,Narsingdi,"Shibpur, Narsingdi",1990,1996,345.00,2,2,25.93,Active,1
+5,Meghna,"Bancharampur, Brahmanbaria",1990,1997,101.00,1,0,0.00,Suspended,1
+6,Kamta,"Gazipur District",1985,NULL,NULL,NULL,0,0.00,Suspended,1
+7,Haripur,"Haripur, Sylhet",1955,1957,90.00,8,2,10.00,Active,2
+8,Rashidpur,"Habiganj District",1960,1978,2433.00,10,4,44.00,Active,2
+9,Kailashtila,"Golapganj, Sylhet",1962,1983,2758.00,9,4,68.00,Active,2
+10,Beanibazar,"Beanibazar, Sylhet",1981,1998,450.00,3,2,25.00,Active,2
+11,Jalalabad,"Sylhet Sadar, Sylhet",1989,1999,987.00,4,3,55.00,Active,2
+12,Maulvibazar,"Maulvibazar District",1997,2005,400.00,2,1,12.00,Active,2
+13,Shahbazpur,"Bhola District",1995,1999,590.00,4,3,110.00,Active,3
+14,"Bhola North","Bhola District",2011,2013,NULL,2,2,30.00,Active,3
+15,Saldanadi,"Narsingdi District",1996,2002,62.00,2,1,7.00,Active,3
+16,Fenchuganj,"Fenchuganj, Sylhet",1988,2007,395.00,3,2,30.00,Active,3
+17,Semutang,"Rangamati, Chittagong Hill Tracts",1959,2006,43.00,2,1,5.00,Active,3
+18,Begumganj,"Noakhali District",1995,2006,86.00,2,1,10.00,Active,3
+19,Srikail,"Munshiganj District",2008,2012,NULL,2,1,12.00,Active,3
+20,Sundalpur,"Comilla District",2010,2015,NULL,1,1,8.00,Active,3
+21,Jamalpur,"Jamalpur District",2024,NULL,NULL,1,0,0.00,Exploration,3
+22,Bibiyana,"Block 12 - Habiganj District",1998,2007,5000.00,18,16,1200.00,Active,4
+23,"Jalalabad (Chevron)","Block 13 - Sylhet District",1989,1999,1400.00,6,4,200.00,Active,4
+24,"Moulvibazar (Chevron)","Block 14 - Moulvibazar District",1997,2005,860.00,4,3,80.00,Active,4
