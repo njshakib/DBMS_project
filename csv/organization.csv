@@ -1,0 +1,43 @@
+org_id,org_name,org_type
+1,BGFCL,"Field Operator"
+2,SGFL,"Field Operator"
+3,BAPEX,"Field Operator"
+4,"Chevron Bangladesh","Field Operator"
+5,KGDCL,"Distribution Company"
+6,BGDCL,"Distribution Company"
+7,JGTDSL,"Distribution Company"
+8,PGCL,"Distribution Company"
+9,Titas,"Distribution Company"
+10,Petrobangla,Corporation
+11,BPC,Corporation
+12,ERL,Refinery
+13,POCL,Corporation
+14,BCMCL,"Mining Company"
+15,BPDB,"Power Generation"
+16,PDB,Public
+17,NWPGCL,Public
+18,EGCB,Public
+19,APSCL,Public
+20,RPCL,Public
+21,BCPCL,"Joint Venture"
+22,BIFPCL,"Joint Venture"
+23,IPP,Private
+24,"POWER GRID",Public
+25,RNPP,Public
+26,DESCO,Public
+27,DPDC,Public
+28,Bulk,Public
+29,Private,Public
+30,DMTCL,Public
+31,MoST,Public
+32,CPGCBL,Public
+33,IDCOL,Public
+34,"Barind Multipurpose Development Authority",Public
+35,"Bangladesh Agricultural Development Corporation",Public
+36,"Bangladesh Rural Electrification Board",Public
+37,"Bangladesh Agricultural Research Institute",Public
+38,"Department of Agricultural Extension",Public
+39,"Rural Development Academy",Public
+40,"Bangladesh Rice Research Institute",Public
+41,"Bangladesh Academy for Rural Development",Public
+42,SREDA,Public
