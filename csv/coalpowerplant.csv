@@ -1,0 +1,5 @@
+plant_id,plant_name,location,capacity_mw,org_id
+1,"Barapukuria Coal Power Plant",Dinajpur,525.00,15
+2,"Rampal Power Station",Bagerhat,1320.00,15
+3,"Payra Power Plant",Patuakhali,1320.00,15
+4,"Matarbari Coal Power Plant","Cox's Bazar",1200.00,15
