@@ -1,0 +1,23 @@
+price_id,product_category,product_name,price_unit,effective_date
+1,"Local Selling Price","HSD (Diesel)",Tk/litre,2026-04-19
+2,"Local Selling Price","SKO (Kerosene)",Tk/litre,2026-04-19
+3,"Local Selling Price","HOBC (Octane)",Tk/litre,2026-04-19
+4,"Local Selling Price","MS (Petrol)",Tk/litre,2026-04-19
+5,"Domestic Flight","Jet A-1",Tk/litre,2026-05-08
+6,"International Flight","Jet A-1",USD/litre,2026-05-08
+7,"Local Selling Price","LP Gas (12.50kg Cylinder)",Tk/Cylinder,2026-02-23
+8,"Local Selling Price",SBPS,Tk/litre,2026-05-06
+9,"Local Selling Price",MTT,Tk/litre,2026-05-06
+10,"Local Selling Price",JBO,Tk/litre,2026-05-06
+11,"Local Selling Price",LDO,Tk/litre,2026-05-06
+12,"Local Selling Price","FO (Furnace Oil)",Tk/litre,2026-04-12
+13,"Local Selling Price","LMS (Light Motor Spirit)",Tk/litre,2026-05-06
+14,"Bunker Price","HSD Bunker (Chittagong Port)",USD/M.Ton,2026-05-06
+15,"Bunker Price","HSD Bunker (Mongla Port)",USD/M.Ton,2026-05-06
+16,"Bunker Price","Marine Fuel Bunker (Chittagong Port)",USD/M.Ton,2026-05-06
+17,"Bunker Price","Marine Fuel Bunker (Mongla Port)",USD/M.Ton,2026-05-06
+18,"Local Selling Price","Marine Fuel/Furnace Oil (0.5% Sulphur)",Tk/litre,2026-05-06
+19,"Selling Price per Drum","Bitumen Drum (80/100 Grade)",Tk/Drum,2026-05-06
+20,"Selling Price per Drum","Bitumen Drum (60/70 Grade)",Tk/Drum,2026-05-06
+21,"Selling Price per M.Ton","Bitumen Bulk (80/100 Grade)",Tk/M.Ton,2026-05-06
+22,"Selling Price per M.Ton","Bitumen Bulk (60/70 Grade)",Tk/M.Ton,2026-05-06
