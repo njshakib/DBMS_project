@@ -1,0 +1,21 @@
+record_id,category,fiscal_year,amount,org_id
+1,Dividend,2020-2021,192.89,9
+2,Dividend,2021-2022,163.22,9
+3,Dividend,2022-2023,78.19,9
+4,Dividend,2023-2024,39.50,9
+5,Dividend,2024-2025,39.50,9
+6,"Corporate Tax",2020-2021,880.89,9
+7,"Corporate Tax",2021-2022,882.13,9
+8,"Corporate Tax",2022-2023,562.95,9
+9,"Corporate Tax",2023-2024,818.95,9
+10,"Corporate Tax",2024-2025,698.82,9
+11,DSL,2020-2021,10.19,9
+12,DSL,2021-2022,8.69,9
+13,DSL,2022-2023,26.69,9
+14,DSL,2023-2024,31.59,9
+15,DSL,2024-2025,20.86,9
+16,"Import Duty & VAT",2020-2021,11.68,9
+17,"Import Duty & VAT",2021-2022,26.83,9
+18,"Import Duty & VAT",2022-2023,83.09,9
+19,"Import Duty & VAT",2023-2024,88.06,9
+20,"Import Duty & VAT",2024-2025,16.89,9
