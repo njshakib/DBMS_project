@@ -1,0 +1,5 @@
+summary_id,sector_category,no_of_power_plant,installed_capacity_mw,record_date,org_id
+1,Public,64,12302.00,2026-03-31,16
+2,"Joint Venture",3,3068.00,2026-03-31,16
+3,Private,69,10853.00,2026-03-31,16
+4,Import,4,2696.00,2026-03-31,16
