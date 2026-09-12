@@ -1,0 +1,179 @@
+plant_id,station_name,fuel_type,installed_capacity,present_capacity_mw,org_id
+1,"Bheramara (HVDC )",NULL,2X500,1000.00,24
+2,HVDC(Nepal),NULL,1*40,40.00,24
+3,"Adani Power Jharkhanda Ltd",NULL,2*673,1435.88,24
+4,"Ghorasal Repowered CCPP Unit-3",NULL,1*260,260.00,16
+5,"Bheramara GTPP Unit-3",NULL,1X20,16.00,16
+6,"Faridpur 50 MW Peaking PP",NULL,8*6.89,54.00,16
+7,"Khulna 225 MW CCPP",NULL,1X150+1X75,230.00,17
+8,"Gopalganj 100 MW Peaking PP",NULL,16*6.98,109.00,16
+9,"Bheramara 410 MW CCPP",NULL,1X278+1X132,410.00,17
+10,"Rupsha 105 MW PP (Orion rupsha)",NULL,6*18.445,105.00,23
+11,"Madhumati 100 MW PP",NULL,6*18,105.00,17
+12,"Mongla Orion 100 MW Solar PP",NULL,100,100.00,23
+13,"Khulna 330 MW CCPP",NULL,1*220+1*110,336.00,16
+14,"Rampal 1320 MW (BIFPCL)",NULL,660*2,1148.28,16
+15,"Barisal 110 MW PP (Summit )",NULL,7X17.076,110.00,23
+16,"Bhola 33 MW PP (Venture)",NULL,1X34.50,11.04,23
+17,"Bhola 225 MW CCPP",NULL,2X63+1X68,194.00,16
+18,"Payra 1320 MW",NULL,2*622,1085.32,21
+19,"Bhola Nutan Biddut BD LTD",NULL,2*75+1*75,220.00,23
+20,"United Payra Power Ltd.",NULL,8*18.5+1*9.5,150.00,23
+21,"Barisal 307 MW",NULL,307X1,307.00,21
+22,"Barisal 1 MW Solar Plant",NULL,NULL,1.00,23
+23,"Baghabari 71 MW GTPP",NULL,1X71,70.00,16
+24,"Baghabari 50 MW Peaking PP",NULL,6*8.9,52.00,16
+25,"Siddhirgonj 210 MW TPP",NULL,1*210,115.00,16
+26,"Bera 70 MW Peaking PP",NULL,9*8.29,71.00,16
+27,"Katakhali 50 MW Peaking PP",NULL,6*8.7,50.00,16
+28,"Sirajgonj 225MW CCPP Unit-1",NULL,1*150+1*75,214.00,17
+29,"Sirajgonj 225MW CCPP Unit-2",NULL,1*150+1*75,220.00,17
+30,"Sirajgonj 225MW CCPP Unit-3",NULL,1*141,220.00,17
+31,"Sirajgonj 400 MW CCPP Unit-4",NULL,1*282+1*132,413.79,17
+32,"Santahar 50 MW Peaking PP",NULL,6*8.7,50.00,16
+33,"Natore 52 MW PP (Rajlanka)",NULL,6*8.92,52.20,23
+34,"Siddhirgonj 2*120 MW GTPP",NULL,2*105,210.00,18
+35,"Chapainawabganj 100 MW Peaking PP",NULL,12*8.924,104.00,16
+36,"Bagura 113 MW PP (Confidence)-2",NULL,6*18.55+7.2,113.00,23
+37,"Bagura 113 MW PP (Confidence)-1",NULL,6*18.55,113.00,23
+38,"Sirajgonj 6.55 MW Solar",NULL,NULL,6.09,17
+39,"Sirajganj 68 MW Solar Park",NULL,NULL,68.00,23
+40,"Barapukuria TPP Unit-1 & 2",NULL,1*125+1*125,170.00,16
+41,"Barapukuria 275 MW TPP Unit-3",NULL,1*275,274.00,16
+42,"Rangpur 20 MW GTPP",NULL,1*20,20.00,16
+43,"Saidpur 20 MW GTPP",NULL,1*20,20.00,16
+44,"Rangpur 113 MW PP (Confidence)",NULL,9*6.984+7*7.015+3.15*2,113.00,23
+45,"Siddhirganj 335 MW CCPP",NULL,1*217+118,335.00,18
+46,"Sympa Solar Power 8 MW",NULL,NULL,8.00,23
+47,"Energypac Power Venture Thakurgaon Ltd.",NULL,NULL,115.00,23
+48,"Intraco Solar 30 MW",NULL,1*30,30.00,23
+49,"Teesta Solar Limited",NULL,NULL,200.00,21
+50,"Gagnagar 102 MW PP (Digital Power)",NULL,12*8.924,102.00,23
+51,"Kamalaghat 54 MW PP(Banco Energy)",NULL,3*18,53.97,23
+52,"Kodda 150 MW PP BRPL",NULL,9*17.06,149.36,20
+53,"Manikganj 55 MW PP (Northern)",NULL,19.3*3,55.00,23
+54,"Ghorasal Repowered CCPP Unit-4",NULL,1*210,240.00,16
+55,"Nababganj 55 MW PP (Southern power )",NULL,19.3*3,55.00,23
+56,"Summit Power Ashulia",NULL,NULL,33.75,23
+57,"Summit Power Madhabdi",NULL,3*3.67+4*8.73,23.00,23
+58,"Gazipur 52 MW PP",NULL,6*8.9,52.19,20
+59,"Tongi 80 MW GTPP",NULL,"1* 105",105.00,16
+60,"Kodda 300 MW PP Unit-2 (Summit)",NULL,18*17.06,300.00,23
+61,"Kodda 149 MW PP Unit-1 (Summit)",NULL,8*18.45+8.97,149.00,23
+62,"Gazipur 100 MW PP",NULL,6*17.5,105.00,20
+63,"Ghorasal 365 MW CCPP Unit-7",NULL,1*243+1*122,365.00,16
+64,"Meghnaghat 104 MW PP (OPCL)",NULL,6*18.5,104.00,23
+65,"Manikgonj 162MW PP(MPGL)",NULL,9*18,162.00,23
+66,"Spectra Solar Plant Ltd.",NULL,NULL,35.00,23
+67,"Kanchan Purbachal Power Generation Ltd.",NULL,18.4*3,55.00,23
+68,"Unique Meghnaghat Power Limited (UMPL)",NULL,NULL,584.00,23
+69,"Meghnaghat CCPP(Summit)-2",NULL,1*409+1*202,583.00,23
+70,"Chattogram TPP",NULL,1*210+1*210,360.00,16
+71,"Raozan 25 MW PP",NULL,3*8.9,25.50,23
+72,"Teknaf 20MW PP (Solartech)",NULL,NULL,20.00,23
+73,"Patenga 50MW PP (Baraka)",NULL,8*6.98,50.00,23
+74,"Ghorashal 108 MW PP (Regent)",NULL,34*3.35,97.70,23
+75,"Karnaphuli Hydro PP Unit-1,2,3,4, 5",NULL,2*40+3*50,230.00,16
+76,"Sikalbaha 225MW CCPP",NULL,1*150+1*75,225.00,16
+77,"Sikalbaha Peaking GT",NULL,1*150,150.00,16
+78,"Sikalbaha 105 MW PP (Baraka Sikalbaha)",NULL,6*17.5,105.00,23
+79,"Hathazari 100 MW peaking PP",NULL,11*8.9,98.00,16
+80,"Dohazari -Kalaish 100 MW Peaking",NULL,6*17,102.00,16
+81,"Juldah 100 MW PP Unit-3 (Acorn)",NULL,8*13.5,100.00,23
+82,"Chattogram 108 MW PP (ECPV)",NULL,16*7,108.00,23
+83,"Kaptai 7 MW Solar PP",NULL,NULL,6.00,16
+84,"Anwara 300 MW PP (United)",NULL,17*17+24,300.00,23
+85,"Haripur GTPP",NULL,32*2,20.00,16
+86,"Jodiac Power",NULL,3*18.55+1*3.6,54.36,23
+87,"Karnaphuli Power Ltd.",NULL,18.415*6+6.5,110.00,23
+88,"Juldah unit-2 (Acorn)",NULL,8*13.6,100.00,23
+89,"Anlima Energy Ltd.",NULL,6*21.2,116.00,23
+90,"Mirsharai 150 MW BRPL",NULL,18.5*9,163.00,23
+91,"SS Power",NULL,2*660,1224.00,23
+92,"Cox's Bazar Wind",NULL,22*3,60.00,16
+93,"Matarbari 2*600 MW (CPGCBL)",NULL,2*600,1150.00,23
+94,"Ashuganj CCPP 225 MW",NULL,1X142+1X75,221.00,19
+95,"Ashuganj 450 MW CCPP(North)",NULL,1*360,353.35,19
+96,"Haripur 412 MW CCPP",NULL,1*273+1*139,412.00,18
+97,"Ashuganj 450 MW CCPP(South)",NULL,1*360,318.81,19
+98,"Ashuganj 420 MW CCPP(East)",NULL,284*1+116*1,393.00,19
+99,"Ashuganj TSK 50 MW PP",NULL,14*3.96,46.70,19
+100,"Ashuganj 55 MW PP (Precision)",NULL,15*4,55.00,23
+101,"Ashuganj 195 MW PP (APSCL-United)",NULL,20X9.73+1X16,195.00,23
+102,"Ashuganj 51 MW PP (Midland)",NULL,6X9.34,51.00,23
+103,"Ashuganj 150MW PP (Midland)",NULL,23X7.015,150.00,23
+104,"Titas 50 MW Peaking PP",NULL,6*8.92,52.00,16
+105,"Chandpur 150 MW CCPP",NULL,1*106+1*57,163.00,16
+106,"Chandpur 200MW (Desh energy)",NULL,12*18.4,200.00,23
+107,"Meghnaghat 450 MW CCPP (MPL)",NULL,2*150+1*150,450.00,23
+108,"Jangalia 52 MW PP (Lakdanavi)",NULL,6*8.92,52.20,23
+109,"Cumilla 25 MW PP (Summit)",NULL,3*3.67+2*6.97,25.00,23
+110,"Feni Lanka Power",NULL,7*18.415+1*9.78,114.00,23
+111,"Chowmuhani 113 MW",NULL,12*9.78+2*3.1,113.00,23
+112,"Chandpur 115(Doreen)",NULL,4*18.5+2*22.5,115.00,23
+113,"Sonagazi 75 MW (AC) Solar Power Plant",NULL,NULL,75.00,18
+114,"RPCL 210MW CCPP",NULL,4*35+1*70,210.00,20
+115,"Sarishabari 3 MW Solar Plant",NULL,NULL,2.71,23
+116,"Meghnaghat CCPP(Summit)",NULL,2*110+1*110,335.00,23
+117,"Mymensingh 200 MW PP (United)",NULL,9.78*21,200.00,23
+118,"Jamalpur 115 MW PP (United)",NULL,9.78*12,115.00,23
+119,"Sutiakhali 50 MW Solar PP",NULL,NULL,50.00,23
+120,"Tangail Palli Power Gen 22 MW",NULL,4*6.7,22.00,23
+121,"Bhairob 54.5 MW",NULL,3*18.2,54.50,23
+122,"Fenchugonj CCPP Phase-1",NULL,2*32+1*33,90.00,16
+123,"Fenchugonj CCPP Phase-2",NULL,2*35+1*35,90.00,16
+124,"GKuhsohraiasraal 1R6e3p oMwWer CedC CPCP P(KPP U)nit-3",NULL,1*109+1*54,163.00,23
+125,"Shajibazar 330 MW CCPP",NULL,3*110,330.00,16
+126,"Madanganj-55 MW PP(Summit)",NULL,3*17+1*11.3,55.00,23
+127,"Shahjibazar GTPP Unit- 8 & 9",NULL,2*35,66.00,16
+128,"Shahjibazar 86MW PP (Shahjibazar)",NULL,32*2.90,86.00,23
+129,"Shahjibazar 100 MW GTPP",NULL,1*100,100.00,16
+130,"Sylhet 225 MW CCPP",NULL,1*142+1*89,231.00,16
+131,"Sylhet 20 MW GTPP",NULL,1*20,20.00,16
+132,"Shahjahanulla 25 MW PP",NULL,3*9.34,25.00,23
+133,"Bibiana-II 341 MW CCPP (Summit)",NULL,1*222+1*119,341.00,23
+134,"Bibiyana-III 400 MW CCPP",NULL,285*1+134*1,400.00,16
+135,"Bibiyana South 400 MW",NULL,1*400,383.00,16
+136,"GKuhsohraiasraal 1R6e3p MowWe rCedC PCPC P(KPP U)nit-3",NULL,1*109+1*54,163.00,23
+137,"GKuhsohraiasraal 1R6e3p oMwWer eCdC CPCPP (PK PU)nit-3",NULL,1*109+1*54,163.00,23
+138,"Energypac Power Venture Thakurgaon",NULL,NULL,115.00,23
+139,"Nababganj 55 MW PP (Southern powe",NULL,19.3*3,55.00,23
+140,"Kanchan Purbachal Power Generation",NULL,18.4*3,55.00,23
+141,"Unique Meghnaghat Power Limited (U",NULL,NULL,584.00,23
+142,"Sikalbaha 105 MW PP (Baraka Sikalba",NULL,6*17.5,105.00,23
+143,"Sonagazi 75 MW (AC) Solar Power Pla",NULL,NULL,75.00,18
+144,"GFehnocrahsuaglo Rnje CpoCwPePr ePdh CasCeP-1P Unit-3",NULL,2*32+1*33,90.00,16
+145,"Kushiara 163 MW CCPP (KP)",NULL,1*109+1*54,163.00,23
+146,"Energypac Power Venture Thakurgaon Lt",NULL,NULL,115.00,23
+147,"Kanchan Purbachal Power Generation Ltd",NULL,18.4*3,55.00,23
+148,"Unique Meghnaghat Power Limited (UMP",NULL,NULL,584.00,23
+149,"Unique Meghnaghat Power Limited (UMPL",NULL,NULL,584.00,23
+150,"Kanchan Purbachal Power Generation Lt",NULL,18.4*3,55.00,23
+151,"Sikalbaha 105 MW PP (Baraka Sikalbaha",NULL,6*17.5,105.00,23
+152,"SSiirraajjggoonnjj 222255MMWW CCCCPPPP UUnniitt--22",NULL,11**115500++11**7755,222200.00,23
+153,"SSiikkaallbbaahhaa 110055 MMWW PPPP ((BBaarraakkaa SSiikkaallbbaahhaa))",NULL,66**1177..55,110055.00,23
+154,"GKuhsohraiasraal 1R6e3p MowWe rCedC CPPC P(KPP U)nit-3",NULL,1*109+1*54,163.00,23
+155,"AAddaannii PPoowweerr JJhhaarrkkhhaannddaa LLttdd",NULL,22**667733,NULL,23
+156,"KKaarrnnaapphhuullii PPoowweerr LLttdd..",NULL,1188..441155**66++66..55,111100.00,23
+157,"GKuhsohraiasraal 1R6e3p oMwWer eCdC CPCP P(KPP U)nit-3",NULL,1*109+1*54,163.00,23
+158,"SSaannttaahhaarr 5500 MMWW PPeeaakkiinngg PPPP",NULL,66**88..77,5500.00,23
+159,"JJuullddaahh 110000 MMWW PPPP UUnniitt--33 ((AAccoorrnn))",NULL,88**1133..55,110000.00,23
+160,"BBhhoollaa NNuuttaann BBiidddduutt BBDD LLTTDD",NULL,22**7755++11**7755,222200.00,23
+161,"RRPPCCLL 221100MMWW CCCCPPPP",NULL,44**3355++11**7700,221100.00,23
+162,"GFehnocrahusaglo Rnje CpoCwPePr ePdh CasCeP-1P Unit-3",NULL,2*32+1*33,90.00,16
+163,"Nababganj 55 MW PP (Southern power",NULL,19.3*3,55.00,23
+164,"Unique Meghnaghat Power Limited (UM",NULL,NULL,584.00,23
+165,"Energypac Power Venture Thakurgaon Ltd",NULL,NULL,115.00,23
+166,"Chapainawabganj 100 MW Peaking P",NULL,12*8.924,104.00,16
+167,"Energypac Power Venture Thakurgao",NULL,NULL,115.00,23
+168,"Gagnagar 102 MW PP (Digital Power",NULL,12*8.924,102.00,23
+169,"Kamalaghat 54 MW PP(Banco Energ",NULL,3*18,53.97,23
+170,"Nababganj 55 MW PP (Southern pow",NULL,19.3*3,55.00,23
+171,"Kanchan Purbachal Power Generatio",NULL,18.4*3,55.00,23
+172,"Sikalbaha 105 MW PP (Baraka Sikalb",NULL,6*17.5,105.00,23
+173,"Ashuganj 195 MW PP (APSCL-Unite",NULL,20X9.73+1X16,195.00,23
+174,"Sonagazi 75 MW (AC) Solar Power P",NULL,NULL,75.00,18
+175,"Energypac Power Venture Thakurgaon L",NULL,NULL,115.00,23
+176,"Kanchan Purbachal Power Generation L",NULL,18.4*3,55.00,23
+177,"Sikalbaha 105 MW PP (Baraka Sikalbah",NULL,6*17.5,105.00,23
+178,"Sonagazi 75 MW (AC) Solar Power Plan",NULL,NULL,75.00,18
