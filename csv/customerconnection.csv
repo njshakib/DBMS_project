@@ -1,0 +1,9 @@
+connection_id,category,no_of_connections,org_id
+1,Power,19,7
+2,"Captive Power",138,7
+3,Fertilizer,1,7
+4,CNG,59,7
+5,Industrial,139,7
+6,"Tea Estate",100,7
+7,Commercial,1197,7
+8,Domestic,220227,7
